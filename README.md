@@ -10,5 +10,7 @@
 ```html
 <html>Ceci est du code HTML</html>
 ```
+<html>Ceci aussi est du code HTML</html>
+
 [Lien](http://www.google.com)
 
